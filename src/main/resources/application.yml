@@ -1,0 +1,12 @@
+logging:
+  level:
+    root: debug
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            redirectUri: http://www.zhanghb.top:8092/h5api/login/oauth2/code/google
+
