@@ -11,6 +11,7 @@
     <groupId>top.zhanghb.h5api</groupId>
     <artifactId>h5api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>h5api</name>
     <description>Demo project for Spring Boot</description>
 
